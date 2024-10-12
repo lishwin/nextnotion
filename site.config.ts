@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'ligenshi.com',
-  domain: 'https://wiry-bakery-755.notion.site/ligenshi-com-d2939480de3a4effa5f8ce419d63f272',
+  domain: 'https://ligenshi.notion.site/Brandon-Li-Genshi-c99b6571d9d943059d9a874781df48f5',
   author: 'Brandon Li Genshi',
 
   // open graph metadata (optional)
